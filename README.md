@@ -1,4 +1,4 @@
-# [🎯] Aimbot Hub/Aimbotware, Aimbot V1.0.0
+# [🎯] Aimbot Hub/Aimbotware, Aimbot V1.0.0 [Free Version]
 
 [🎯] 𝐑𝐨𝐛𝐥𝐨𝐱 𝐁𝐞𝐬𝐭 𝐀𝐢𝐦𝐛𝐨𝐭 𝐈𝐧 𝐑𝐨𝐛𝐥𝐨𝐱 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐡𝐢𝐬𝐭𝐨𝐫𝐲? 😍
 
@@ -10,7 +10,9 @@ Fellow Exploiter!
 
   Aimbot Hub/Aimbotware is a universal script that is undetectable in many games, which means you can use it without being banned by a game anti-cheat! 
 
-  What makes Aimbot Hub/Aimbotware so special is that it supports "[📱] Mobile" and "[💻] PC" users! 
+  What makes Aimbot Hub/Aimbotware so special is that it supports "[📱] Mobile" and "[💻] PC" users!
+
+  I recommend it to be used in FPS games, for long-term is called "First Person Shooter". Examples of FPS games are: "Arsenal, No-Scope Arcade, No-Scope Sniping".
 
   Unfortunately 😞, there's no feature about "[🧱] Wall Check" and "[🤝] Team Check". But this feature will come soon in Aimbot Hub/Aimbotware V2.0.0 😯. 
 
